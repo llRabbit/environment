@@ -5,8 +5,8 @@ spring:
 
 ---
 
-sever:
- port: 8201
+server:
+  port: 8201
 spring:
   profiles: dev
   application:
@@ -14,8 +14,8 @@ spring:
 
 ---
 
-sever:
- port: 8202
+server:
+  port: 8202
 spring:
   profiles: test
   application:
