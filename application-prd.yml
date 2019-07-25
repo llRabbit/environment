@@ -1,4 +1,4 @@
 spring:
   profiles: prd
   application:
-    name: springcloud-server-config-prd
+    name: springcloud-server-config-dev-prd

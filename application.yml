@@ -8,11 +8,11 @@ spring:
 spring:
   profiles: dev
   application:
-    name: springcloud-server-config-dev
+    name: springcloud-server-config-dev-dev
 
 ---
 
 spring:
   profiles: test
   application:
-    name: springcloud-server-config-test
+    name: springcloud-server-config-dev-test
