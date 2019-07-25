@@ -2,3 +2,4 @@ spring:
   profiles: prd
   application:
     name: springcloud-server-config-prd
+    
