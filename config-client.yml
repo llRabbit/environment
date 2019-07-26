@@ -10,7 +10,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: springcloud-server-config-client-dynamic
+    name: springcloud-server-config-client-change
 
 ---
 
