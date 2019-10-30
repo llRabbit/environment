@@ -19,4 +19,4 @@ server:
 spring:
   profiles: test
   application:
-    name: springcloud-server-config-client-test-liulin
+    name: springcloud-server-config-client-test
